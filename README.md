@@ -15,7 +15,7 @@ Python • LangChain • CrewAI • OpenAI API • SQL • Pandas • Streamlit 
 
 ## 🔗 Links
 - [📰 Substack – Myth Rewritten](https://your-substack-link.com)
-- [💼 LinkedIn](https://linkedin.com/in/yourhandle)
+- [💼 LinkedIn][(https://linkedin.com/in/yourhandle)](https://www.linkedin.com/in/sarika-chopra-68293538/)
 - [🌐 Portfolio Website](https://yourwebsite.com) *(optional)*
 
 > ✨ “Code can be mythic — if it questions, reveals, and connects.”
