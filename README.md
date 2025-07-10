@@ -3,8 +3,10 @@
 I build tools that rethink truth in the age of AI — combining data, narrative, and code.
 
 ## 🧠 Current Projects
-- 📰 **MythBusting with AI** – RAG-powered article generator that rewrites old assumptions
-- 📚 **Knowledge Agents** – CrewAI bots for researching from Wikipedia, WolframAlpha, arXiv
+# 🕵️‍♀️ [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
+
+**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI) that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation (DALL·E) to produce high-quality Substack-ready content.
+
 - 💹 **Tariff & Stock Market Tracker** – Maps real-world economic policy to affected industries
 
 ## 💡 Interests
