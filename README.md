@@ -3,9 +3,18 @@
 I build tools that rethink truth in the age of AI — combining data, narrative, and code.
 
 ## 🧠 Current Projects
-# 🕵️‍♀️ [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
 
-**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI) that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation (DALL·E) to produce high-quality Substack-ready content.
+# 🎭 1. [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
+        Substack – Myth Rewritten](https://your-substack-link.com)
+**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI) that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation (DALL·E) to produce high-quality Substack-ready content.  
+
+# 🕵️‍♀️ 2. ** todo skills showcase with sql, data viz **
+
+# 🕵️‍♀️ 3. ** todo kaggle ML AI **
+
+# 🕵️‍♀️ 4. ** VC Apps **
+
+# 🏦 5. ** to do AI in Financial Services Govbench Chatbot Project.**
 
 - 💹 **Tariff & Stock Market Tracker** – Maps real-world economic policy to affected industries
 
