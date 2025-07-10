@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarika!
 
-<!--
-**sarikasea/sarikasea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that rethink truth in the age of AI — combining data, narrative, and code.
 
-Here are some ideas to get you started:
+## 🧠 Current Projects
+- 📰 **MythBusting with AI** – RAG-powered article generator that rewrites old assumptions
+- 📚 **Knowledge Agents** – CrewAI bots for researching from Wikipedia, WolframAlpha, arXiv
+- 💹 **Tariff & Stock Market Tracker** – Maps real-world economic policy to affected industries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+Generative AI · Capital Markets · Computational Ethics · Myth & Narrative · Substack Publishing
+
+## 🧰 Skills & Tools
+Python • LangChain • CrewAI • OpenAI API • SQL • Pandas • Streamlit • HuggingFace • Git
+
+## 🔗 Links
+- [📰 Substack – Myth Rewritten](https://your-substack-link.com)
+- [💼 LinkedIn](https://linkedin.com/in/yourhandle)
+- [🌐 Portfolio Website](https://yourwebsite.com) *(optional)*
+
+> ✨ “Code can be mythic — if it questions, reveals, and connects.”
+
+---
