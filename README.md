@@ -9,6 +9,7 @@ I build tools that rethink truth in the age of AI — combining data, narrative,
 # 🕵️‍♀️ 2. Tech Stacks
 
 ** [SQL Mastery Notebooks](https://github.com/sarikasea/SQL_Mastery) **
+Easy, Medium, Hard, Business and Analytical Problem Sets
 
 # 🕵️‍♀️ 3. ** Projects **
 
