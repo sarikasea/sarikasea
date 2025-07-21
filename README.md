@@ -6,13 +6,15 @@ I build tools that rethink truth in the age of AI — combining data, narrative,
 
 # 🎭 1.
 
-# 🕵️‍♀️ 2. ** [SQL Mastery Notebooks](https://github.com/sarikasea/SQL_Mastery) **
+# 🕵️‍♀️ 2. Tech Stacks
+
+** [SQL Mastery Notebooks](https://github.com/sarikasea/SQL_Mastery) **
 
 # 🕵️‍♀️ 3. ** Projects **
 
-        A.  [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
+A.  [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
         Substack – Myth Rewritten](https://your-substack-link.com)
-        **MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation         (DALL·E) to produce high-quality Substack-ready content.  
+**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation       (DALL·E) to produce high-quality Substack-ready content.  
 
 # 🕵️‍♀️ 4. ** VC Apps **
 
