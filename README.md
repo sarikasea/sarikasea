@@ -2,7 +2,7 @@
 
 I build tools that rethink truth in the age of AI — combining data, narrative, and code.
 
-## 🔗 Links
+# 🔗 Links
 - [📰 Substack – Triumphant Women](https://triumphantwomen.substack.com/)
 - [💼 LinkedIn](https://www.linkedin.com/in/sarika-chopra-68293538/)
 
@@ -12,30 +12,17 @@ Generative AI · Capital Markets Finance · Computational Ethics · Data Visuali
 ## 🧰 Skills & Tools
 Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Streamlit • Git
 
-# 🕵️‍♀️ 2. Tech Stacks
+## 🕵️‍♀️ 2. Tech Stacks
 
 ** [Python](https://github.com/sarikasea/Python) **
 Easy, Medium, Hard, Business and Analytical Problem Sets
 
-## 🧠 Current Projects
+# 🧠 Current Projects
 
-# 🕵️‍♀️ 3. ** Triumphant Women **
+## 🕵️‍♀️ 3. ** Triumphant Women **
 
 A.  [Triumphant Women CrewAI](https://github.com/sarikasea/Mythbusters)
-        Substack – Myth Rewritten](https://your-substack-link.com)
 **MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation       (DALL·E) to produce high-quality Substack-ready content that is a retelling of bold women—sometimes as villains, saints, or footnotes. Triumphant Women reveals truths about misunderstood women—queens, scientists, rebels judged unfairly. We challenge myth and bias to bring their stories to light. 
 
-# 🕵️‍♀️ 4. ** VC Apps **
-
-# 🏦 5. ** to do AI in Financial Services Govbench Chatbot Project.**
-
-- 💹 **Tariff & Stock Market Tracker** – Maps real-world economic policy to affected industries
-
-
-
-
-
-
-> ✨ “Code can be mythic — if it questions, reveals, and connects.”
 
 ---
