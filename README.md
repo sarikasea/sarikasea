@@ -2,20 +2,28 @@
 
 I build tools that rethink truth in the age of AI — combining data, narrative, and code.
 
-## 🧠 Current Projects
+## 🔗 Links
+- [📰 Substack – Triumphant Women](https://triumphantwomen.substack.com/)
+- [💼 LinkedIn](https://www.linkedin.com/in/sarika-chopra-68293538/)
 
-# 🎭 1.
+## 💡 Interests
+Generative AI · Capital Markets Finance · Computational Ethics · Data Visualization · Substack Publishing
+
+## 🧰 Skills & Tools
+Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Streamlit • Git
 
 # 🕵️‍♀️ 2. Tech Stacks
 
-** [SQL Mastery Notebooks](https://github.com/sarikasea/SQL_Mastery) **
+** [Python](https://github.com/sarikasea/Python) **
 Easy, Medium, Hard, Business and Analytical Problem Sets
 
-# 🕵️‍♀️ 3. ** Projects **
+## 🧠 Current Projects
 
-A.  [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
+# 🕵️‍♀️ 3. ** Triumphant Women **
+
+A.  [Triumphant Women CrewAI](https://github.com/sarikasea/Mythbusters)
         Substack – Myth Rewritten](https://your-substack-link.com)
-**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation       (DALL·E) to produce high-quality Substack-ready content.  
+**MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation       (DALL·E) to produce high-quality Substack-ready content that is a retelling of bold women—sometimes as villains, saints, or footnotes. Triumphant Women reveals truths about misunderstood women—queens, scientists, rebels judged unfairly. We challenge myth and bias to bring their stories to light. 
 
 # 🕵️‍♀️ 4. ** VC Apps **
 
@@ -23,16 +31,10 @@ A.  [MythBusting CrewAI](https://github.com/sarikasea/Mythbusters)
 
 - 💹 **Tariff & Stock Market Tracker** – Maps real-world economic policy to affected industries
 
-## 💡 Interests
-Generative AI · Capital Markets · Computational Ethics · Myth & Narrative · Substack Publishing
 
-## 🧰 Skills & Tools
-Python • LangChain • CrewAI • OpenAI API • SQL • Pandas • Streamlit • HuggingFace • Git
 
-## 🔗 Links
-- [📰 Substack – Myth Rewritten](https://your-substack-link.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/sarika-chopra-68293538/)
-- [🌐 Portfolio Website](https://yourwebsite.com) *(optional)*
+
+
 
 > ✨ “Code can be mythic — if it questions, reveals, and connects.”
 
