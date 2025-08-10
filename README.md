@@ -19,7 +19,7 @@ Easy, Medium, Hard, Business and Analytical Problem Sets
 
 # 🧠 Current Projects
 
-## 🕵️‍♀️ 3. ** Triumphant Women **
+## 🕵️‍♀️ 3. ** RAG LLM - Triumphant Women **
 
 A.  [Triumphant Women CrewAI](https://github.com/sarikasea/Mythbusters)
 **MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI)         that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines         large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation       (DALL·E) to produce high-quality Substack-ready content that is a retelling of bold women—sometimes as villains, saints, or footnotes. Triumphant Women reveals truths about misunderstood women—queens, scientists, rebels judged unfairly. We challenge myth and bias to bring their stories to light. 
