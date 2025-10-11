@@ -12,6 +12,9 @@ Generative AI · Capital Markets Finance · Computational Ethics · Data Visuali
 ## 🧰 Skills & Tools
 Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Streamlit • Git
 
+## Generative AI-Powered Applications with Python
+1. [BLIP Image Captioning]([https://github.com/sarikasea/Mythbusters](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/BLIP_Bootstrapped_Language_Image_Pretraining.ipynb))
+
 ## 🕵️‍♀️ 2. Tech Stacks
 
 ** [Python](https://github.com/sarikasea/Python) **
