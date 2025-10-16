@@ -16,10 +16,11 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 1. [BLIP Image Captioning](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/BLIP_Bootstrapped_Language_Image_Pretraining.ipynb)
 2. [Chatbot Hugging Face Models](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/Chatbot_Hugging_Face.ipynb)
 
-## 🕵️‍♀️ 2. Tech Stacks
+## 🕵️‍♀️ 2. Tech 
 
 ** [Python](https://github.com/sarikasea/Python) **
 Easy, Medium, Hard, Business and Analytical Problem Sets
+** [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
 
 # 🧠 Current Projects
 
