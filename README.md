@@ -18,10 +18,12 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 
 ## 🕵️‍♀️ 2. Tech 
 
-1. ** [Python](https://github.com/sarikasea/Python) **
+1. [Python](https://github.com/sarikasea/Python) **
 Easy, Medium, Hard, Business and Analytical Problem Sets
 
-3. ** [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
+2. [SQL](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb)
+
+3. [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
 
 # 🧠 Current Projects
 
