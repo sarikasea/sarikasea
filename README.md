@@ -23,7 +23,8 @@ Easy, Medium, Hard, Business and Analytical Problem Sets
 2. [SQL - Crime Datasets](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb)
 3. [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
 4. [Multiple Linear Regression ML - Housing Prices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Multiple_Linear_Regression.ipynb)
-
+5. [Matplotlib, Seaborn, Folium - Car Sales](https://github.com/sarikasea/Python/blob/main/MatplotLib_Seaborn_and_Folium_Car_Sales_in_Recessions.ipynb)
+6. 
 # 🧠 Current Projects
 
 ## 🕵️‍♀️ 3. ** RAG LLM - Triumphant Women **
