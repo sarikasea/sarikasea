@@ -22,7 +22,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 Easy, Medium, Hard, Business and Analytical Problem Sets
 2. [SQL - Crime Datasets](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb)
 3. [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
-4. [Linear Regression ML - Housing PRices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Linear_Regression.ipynb)
+4. [Multiple Linear Regression ML - Housing Prices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Multiple_Linear_Regression.ipynb)
 
 # 🧠 Current Projects
 
