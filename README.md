@@ -16,14 +16,13 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 1. [BLIP Image Captioning](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/BLIP_Bootstrapped_Language_Image_Pretraining.ipynb)
 2. [Chatbot Hugging Face Models](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/Chatbot_Hugging_Face.ipynb)
 
-## 🕵️‍♀️ 2. Python and SQL Resources 
+## 🕵️‍♀️ 2. SQL, Python, and Machine Learning Projects
 
-1. [Python](https://github.com/sarikasea/Python) **
+1. [Python](https://github.com/sarikasea/Python) 
 Easy, Medium, Hard, Business and Analytical Problem Sets
-
-2. [SQL](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb)
-
+2. [SQL - Crime Datasets](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb)
 3. [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python)
+4. [Linear Regression ML - Housing PRices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Linear_Regression.ipynb)
 
 # 🧠 Current Projects
 
