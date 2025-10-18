@@ -18,7 +18,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 
 ## Machine Learning 
 
-1. 
+1. [Simple Linear Regression - Fuel Consumption](https://github.com/sarikasea/Machine-Learning/blob/main/Simple_Linear_Regression_CO2_Emissions.ipynb)
 
 ## SQL & Python 
 
