@@ -24,6 +24,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 4. [Decision Trees - Prescription Drug Research](https://github.com/sarikasea/Machine-Learning/blob/main/Decision_Trees_Prescription_Drug_Research.ipynb)
 5. [Regression Trees - Taxi Tip Prediction](https://github.com/sarikasea/Machine-Learning/blob/main/Regression_Trees_Taxi_Tip_Prediction.ipynb)
 6. [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb)
+7. [Customer Segmentation KNN Classifier](https://github.com/sarikasea/Machine-Learning/blob/main/Customer_Segmentation_KNN_Classifier.ipynb)
 
 ## SQL & Python 
 
