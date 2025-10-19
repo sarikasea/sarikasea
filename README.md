@@ -22,6 +22,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 2. [Multiple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Multiple_Linear_Regression_Fuel_Consumption.ipynb)
 3. [Multi-class Classification Obesity - One Hot Encoding](https://github.com/sarikasea/Machine-Learning/blob/main/Multi_class_Classification_Obesity.ipynb)
 4. [Decision Trees - Prescription Drug Research](https://github.com/sarikasea/Machine-Learning/blob/main/Decision_Trees_Prescription_Drug_Research.ipynb)
+5. [Regression Trees - Taxi Tip Prediction](https://github.com/sarikasea/Machine-Learning/blob/main/Regression_Trees_Taxi_Tip_Prediction.ipynb)
 
 ## SQL & Python 
 
