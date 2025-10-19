@@ -35,20 +35,19 @@ Easy, Medium, Hard, Business and Analytical Problem Sets
 5. [Matplotlib, Seaborn, Folium - Car Sales](https://github.com/sarikasea/Python/blob/main/MatplotLib_Seaborn_and_Folium_Car_Sales_in_Recessions.ipynb)
 
 ## Data Science Projects
-
-| Project Name | Description / Focus | Industry Category |
-|---------------|--------------------|-------------------|
-| [Simple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Simple_Linear_Regression_CO2_Emissions.ipynb) | Predicting CO₂ emissions from vehicle characteristics using regression | Energy & Environment (ESG / Automotive) |
-| [Multiple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Multiple_Linear_Regression_Fuel_Consumption.ipynb) | Multi-factor regression predicting vehicle CO₂ emissions | Energy & Environment (ESG / Automotive) |
-| [Multi-class Classification Obesity - One Hot Encoding](https://github.com/sarikasea/Machine-Learning/blob/main/Multi_class_Classification_Obesity.ipynb) | Classifying obesity categories using ML models | Healthcare / Medicine |
-| [Decision Trees - Prescription Drug Research](https://github.com/sarikasea/Machine-Learning/blob/main/Decision_Trees_Prescription_Drug_Research.ipynb) | Modeling pharmaceutical decisions across drug trials | Medicine / Pharmaceutical Research |
-| [Regression Trees - Taxi Tip Prediction](https://github.com/sarikasea/Machine-Learning/blob/main/Regression_Trees_Taxi_Tip_Prediction.ipynb) | Predicting taxi tip amounts based on trip-related variables | Transportation / Urban Analytics |
-| [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb) | Classification model detecting credit card fraud | Finance / Fintech / Cybersecurity |
-| [Python](https://github.com/sarikasea/Python) | Mixed analytical and business practice problems | General / Analytics & Education |
-| [SQL - Crime Datasets](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb) | Analytical queries on Chicago crime data | Public Policy / Law Enforcement |
-| [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python) | Stock data scraping and analysis from Yahoo Finance | Finance / Investment Analytics |
-| [Multiple Linear Regression ML - Housing Prices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Multiple_Linear_Regression.ipynb) | Predicting house prices using regression models | Real Estate / Economics |
-| [Matplotlib, Seaborn, Folium - Car Sales](https://github.com/sarikasea/Python/blob/main/MatplotLib_Seaborn_and_Folium_Car_Sales_in_Recessions.ipynb) | Visualizing car sales data across recessions | Business Analytics / Automotive Economics |
+| Project Name | Description / Focus | Industry Category | Machine Learning Model / Technique |
+|---------------|--------------------|-------------------|------------------------------------|
+| [Simple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Simple_Linear_Regression_CO2_Emissions.ipynb) | Predicting CO₂ emissions from vehicle characteristics using regression | Energy & Environment (ESG / Automotive) | Simple Linear Regression |
+| [Multiple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Multiple_Linear_Regression_Fuel_Consumption.ipynb) | Multi-factor regression predicting vehicle CO₂ emissions | Energy & Environment (ESG / Automotive) | Multiple Linear Regression |
+| [Multi-class Classification Obesity - One Hot Encoding](https://github.com/sarikasea/Machine-Learning/blob/main/Multi_class_Classification_Obesity.ipynb) | Classifying obesity categories using ML models | Healthcare / Medicine | Logistic Regression, One-vs-Rest (Multi-class Classification) |
+| [Decision Trees - Prescription Drug Research](https://github.com/sarikasea/Machine-Learning/blob/main/Decision_Trees_Prescription_Drug_Research.ipynb) | Modeling pharmaceutical decisions across drug trials | Medicine / Pharmaceutical Research | Decision Tree Classifier |
+| [Regression Trees - Taxi Tip Prediction](https://github.com/sarikasea/Machine-Learning/blob/main/Regression_Trees_Taxi_Tip_Prediction.ipynb) | Predicting taxi tip amounts based on trip-related variables | Transportation / Urban Analytics | Decision Tree Regressor |
+| [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb) | Classification model detecting credit card fraud | Finance / Fintech / Cybersecurity | Decision Tree Classifier, Support Vector Machine (SVM) |
+| [Python](https://github.com/sarikasea/Python) | Mixed analytical and business practice problems | General / Analytics & Education | Various statistical & algorithmic problem sets |
+| [SQL - Crime Datasets](https://github.com/sarikasea/Python/blob/main/SQLLite_Chicago_Crime_DataSet.ipynb) | Analytical queries on Chicago crime data | Public Policy / Law Enforcement | SQL Data Analysis (No ML model) |
+| [Stock Data - Yfinance and Beautiful Soup](https://github.com/sarikasea/Python) | Stock data scraping and analysis from Yahoo Finance | Finance / Investment Analytics | Data Scraping & Time Series Preparation |
+| [Multiple Linear Regression ML - Housing Prices](https://github.com/sarikasea/Python/blob/main/Housing_Prices_Multiple_Linear_Regression.ipynb) | Predicting house prices using regression models | Real Estate / Economics | Multiple Linear Regression |
+| [Matplotlib, Seaborn, Folium - Car Sales](https://github.com/sarikasea/Python/blob/main/MatplotLib_Seaborn_and_Folium_Car_Sales_in_Recessions.ipynb) | Visualizing car sales data across recessions | Business Analytics / Automotive Economics | Data Visualization (Matplotlib, Seaborn, Folium) |
 
 # 🧠 Current Projects
 
