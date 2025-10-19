@@ -20,6 +20,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 
 1. [Simple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Simple_Linear_Regression_CO2_Emissions.ipynb)
 2. [Multiple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Multiple_Linear_Regression_Fuel_Consumption.ipynb)
+3. [Multi-class Classification Obesity - One Hot Encoding](https://github.com/sarikasea/Machine-Learning/blob/main/Multi_class_Classification_Obesity.ipynb)
 
 ## SQL & Python 
 
