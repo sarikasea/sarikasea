@@ -16,7 +16,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 1. [BLIP Image Captioning](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/BLIP_Bootstrapped_Language_Image_Pretraining.ipynb)
 2. [Chatbot Hugging Face Models](https://github.com/sarikasea/Generative-AI-Powered-Applications-with-Python/blob/main/Chatbot_Hugging_Face.ipynb)
 
-## Machine Learning 
+## Supervised Machine Learning 
 
 1. [Simple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Simple_Linear_Regression_CO2_Emissions.ipynb)
 2. [Multiple Linear Regression - Fuel Consumption CO2 Emissions](https://github.com/sarikasea/Machine-Learning/blob/main/Multiple_Linear_Regression_Fuel_Consumption.ipynb)
@@ -26,6 +26,8 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 6. [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb)
 7. [Customer Segmentation KNN Classifier](https://github.com/sarikasea/Machine-Learning/blob/main/Customer_Segmentation_KNN_Classifier.ipynb)
 8. [Random Forest and XGBoost on California Housing Data](https://github.com/sarikasea/Machine-Learning/blob/main/Random_Forests_and_XGBoost.ipynb)
+
+## Unsupervised Machine Learning 
 
 ## SQL & Python 
 
