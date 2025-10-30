@@ -27,6 +27,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 7. [Customer Segmentation KNN Classifier](https://github.com/sarikasea/Machine-Learning/blob/main/Customer_Segmentation_KNN_Classifier.ipynb)
 8. [Random Forest and XGBoost on California Housing Data](https://github.com/sarikasea/Machine-Learning/blob/main/Random_Forests_and_XGBoost.ipynb)
 9. [Classification Evaluation](https://github.com/sarikasea/Machine-Learning/blob/main/Evaluation_Classification.ipynb)
+10. [Random Forest Evaluation Mtrics](https://github.com/sarikasea/Machine-Learning/blob/main/Random_Forest_Evaluation_Metrics.ipynb)
 
 ## Unsupervised Machine Learning 
 
