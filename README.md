@@ -26,6 +26,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 6. [Credit Card Fraud Detection with Decision Trees and SVM](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb)
 7. [Customer Segmentation KNN Classifier](https://github.com/sarikasea/Machine-Learning/blob/main/Customer_Segmentation_KNN_Classifier.ipynb)
 8. [Random Forest and XGBoost on California Housing Data](https://github.com/sarikasea/Machine-Learning/blob/main/Random_Forests_and_XGBoost.ipynb)
+9. [Classification Evaluation](https://github.com/sarikasea/Machine-Learning/blob/main/Evaluation_Classification.ipynb)
 
 ## Unsupervised Machine Learning 
 
