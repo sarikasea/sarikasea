@@ -29,6 +29,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 9. [Classification Evaluation](https://github.com/sarikasea/Machine-Learning/blob/main/Evaluation_Classification.ipynb)
 10. [Random Forest Evaluation Mtrics](https://github.com/sarikasea/Machine-Learning/blob/main/Random_Forest_Evaluation_Metrics.ipynb)
 11. [Evaluating K Means](https://github.com/sarikasea/Machine-Learning/blob/main/Evaluating_K_meansipynb.ipynb)
+12. [ML Pipeline and GridSearchCV](https://github.com/sarikasea/Machine-Learning/blob/main/Machine_Learning_Pipelines_and_GridSearchCV.ipynb)
 
 ## Unsupervised Machine Learning 
 
