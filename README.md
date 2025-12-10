@@ -20,7 +20,7 @@ Python • Gemini LLM •LangChain • CrewAI • OpenAI API • Pandas • Stre
 
 1. [Compliance Risk Rating Score](https://github.com/sarikasea/Finance-Notebooks/blob/main/AML_%26_Compliance_Scoring.ipynb)
 
-2. [Credit Card Fraud Detection with Decision Trees and SVM MAchine Learning](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb)
+2. [Credit Card Fraud Detection with Decision Trees and SVM Machine Learning](https://github.com/sarikasea/Machine-Learning/blob/main/Credit_Card_Fraud_Detection_with_Decision_Trees_and_SVM.ipynb)
 
 3. [Volatility - Multi-Asset Risk Management](https://github.com/sarikasea/Python/blob/main/Multi_Asset_Risk_Managementipynb.ipynb)
 
